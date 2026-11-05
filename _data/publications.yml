@@ -1,0 +1,20 @@
+- title: "Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration"
+  authors: "Chengjie Ma, S. Oh, J. Park, and S.-L. Kim"
+  venue: "Proceedings of the 43rd International Conference on Machine Learning"
+  year: 2026
+  volume: 306
+  pages: "84807–84845"
+  publisher: "PMLR"
+- title: "Efficient Federated Learning Based on Parameter Group Training"
+  authors: "Chengjie Ma et al."
+  venue: "Proceedings of the Korean Institute of Communications and Information Sciences (KICS) Conference"
+  year: 2025
+  pages: "227–228"
+- title: "Federated Topic Model and Model Pruning Based on Variational Autoencoder"
+  authors: "Chengjie Ma, Y. Li, M. Liang, and A. Li"
+  venue: "Chinese Intelligent Automation Conference (CIAC)"
+  year: 2023
+- title: "Topic Model Based on Co-occurrence Word Networks for Unbalanced Short Text Datasets"
+  authors: "Chengjie Ma, J. Du, M. Liang, and Z. Guan"
+  venue: "IEEE International Conference on Data-driven Optimization of Complex Systems (DOCS)"
+  year: 2023

@@ -13,8 +13,8 @@ subtitle                 :
 name                     : "MA CHENGJIE"
 description              : "Efficient ML, Federated Learning, LLM Fine-tuning, and AI-RAN"
 url                     : "https://machengjie321.github.io"
-baseurl                  : "/ChengjieMa.github.io"
-repository               : "machengjie321/ChengjieMa.github.io"
+baseurl                  : ""
+repository               : "machengjie321/machengjie321.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics

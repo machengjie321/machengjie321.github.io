@@ -15,8 +15,14 @@ main:
   - title: "Publications"
     url: "/#publications"
 
+  - title: "Patent"
+    url: "/#patent"
+
   - title: "Research Experience"
     url: "/#research-experience"
+
+  - title: "Skills"
+    url: "/#skills"
 
   - title: "Honors & Awards"
     url: "/#honors-awards"
