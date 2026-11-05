@@ -130,12 +130,12 @@ I am <span class="accent-text">MA CHENGJIE</span>, a Ph.D. student in <span clas
 
 <p><a href="{{ "/resume_chengjie_ma.pdf" | relative_url }}">Download CV (PDF)</a></p>
 
-# <i class="fas fa-bullhorn"></i> News
+<h1 id="news"><i class="fas fa-bullhorn"></i> News</h1>
 
 - *2026*: My first ICML paper, “Breaking the Capacity Bottleneck in Model-Heterogeneous Federated Learning via Gradual Model Restoration,” appears in PMLR, volume 306, pages 84807–84845.
 - *Planned, November 2026*: Technical exchanges during AI-RAN Summit activities (November 9–10, Seoul) and an initial CPU–GPU PHY acceleration demo at the AI-RAN Alliance All Member Meeting (November 11–12, Yonsei University).
 
-# <i class="fas fa-graduation-cap"></i> Educations
+<h1 id="educations"><i class="fas fa-graduation-cap"></i> Educations</h1>
 
 - *2024.09 - Present*: Ph.D. student, Department of Electrical and Electronic Engineering, Yonsei University
   - GPA: 97.3/100
@@ -152,7 +152,7 @@ I am <span class="accent-text">MA CHENGJIE</span>, a Ph.D. student in <span clas
   - Honorary Bachelor's Degree
   - Minor: Business Administration
 
-# <i class="fas fa-file-alt"></i> Publications
+<h1 id="publications"><i class="fas fa-file-alt"></i> Publications</h1>
 
 <div id="scholar-pubs" class="scholar-pubs-grid">
 {% for pub in site.data.publications %}
@@ -198,11 +198,11 @@ I am <span class="accent-text">MA CHENGJIE</span>, a Ph.D. student in <span clas
 })();
 </script>
 
-# <i class="fas fa-lightbulb"></i> Patent
+<h1 id="patent"><i class="fas fa-lightbulb"></i> Patent</h1>
 
 - Training method, topic prediction method and device for federated variational autoencoder topic model. Patent number: **202310826329**; published January 31, 2024. Student first author.
 
-# <i class="fas fa-briefcase"></i> Research Experience
+<h1 id="research-experience"><i class="fas fa-briefcase"></i> Research Experience</h1>
 
 - *2026.07 – Present*: **AI-RAN: CPU–GPU Acceleration and PHY Scheduling**, Yonsei University
   - Build a CPU–GPU heterogeneous computing platform using NVIDIA DGX Spark (GB10) and OCUDU 5G gNB, with PDSCH/PUSCH PHY processing and performance evaluation across CPU/GPU execution configurations.
@@ -231,13 +231,13 @@ I am <span class="accent-text">MA CHENGJIE</span>, a Ph.D. student in <span clas
   - Conducted topic analysis on customer reviews for shared mobility platforms.
   - Analyzed taxi transfer feedback and user sentiment trends.
 
-# <i class="fas fa-code"></i> Skills
+<h1 id="skills"><i class="fas fa-code"></i> Skills</h1>
 
 - **Programming and tools**: PyTorch, federated learning systems, model pruning, LLM fine-tuning, Docker.
 - **Research areas**: Efficient Machine Learning, Federated Learning, Parameter-Efficient Fine-tuning, AI-RAN.
 - **Languages**: CET-4: 454; CET-6: 434; IELTS: 6.0.
 
-# <i class="fas fa-trophy"></i> Honors & Awards
+<h1 id="honors-awards"><i class="fas fa-trophy"></i> Honors & Awards</h1>
 
 - *2024*: Outstanding Graduate of Beijing, Provincial Level.
 - *2021–2023*: First Class Graduate Scholarship (3 times), School Level.
@@ -249,13 +249,13 @@ I am <span class="accent-text">MA CHENGJIE</span>, a Ph.D. student in <span clas
 - *2020*: 2nd Prize, MathorCup Mathematical Modeling Challenge, Provincial Level.
 - *2018–2019*: National Inspirational Scholarship (2 times), Provincial Level.
 
-# <i class="fas fa-bullhorn"></i> Services
+<h1 id="services"><i class="fas fa-bullhorn"></i> Services</h1>
 
 - *2026*: ICML 2026 Silver Reviewer.
 - *2021.09 – 2024.06*: Class Monitor.
 - *2023.09.27 – 2023.10.08*: Volunteer, China Open Tennis Championship.
 
-# <i class="fas fa-envelope"></i> Contact
+<h1 id="contact"><i class="fas fa-envelope"></i> Contact</h1>
 
 - Email: [cjma@ramo.yonsei.ac.kr](mailto:cjma@ramo.yonsei.ac.kr)
 - Google Scholar: [Profile](https://scholar.google.com/citations?user=rQ45e8EAAAAJ)
